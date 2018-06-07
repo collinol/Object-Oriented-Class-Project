@@ -1,6 +1,0 @@
- Id 0
-Item: thing
-Original Price: 20.0
-Category: electronics
-Current bid: 20.0
-Auction Ends:Mon Jun 04 23:24:06 CDT 2018
